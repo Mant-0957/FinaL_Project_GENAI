@@ -154,3 +154,6 @@ This project was built by following the official assignment guidelines
 embeddings, vector storage, retrieval, prompting, and the grounding rule) is kept
 simple and commented so each part can be explained and demonstrated individually,
 per the assignment's evaluation criteria.
+
+##Author
+#Mant Sherasiya
