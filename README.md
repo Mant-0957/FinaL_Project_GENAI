@@ -155,5 +155,6 @@ embeddings, vector storage, retrieval, prompting, and the grounding rule) is kep
 simple and commented so each part can be explained and demonstrated individually,
 per the assignment's evaluation criteria.
 
-##Author
-#Mant Sherasiya
+## Author
+
+# Mant Sherasiya
